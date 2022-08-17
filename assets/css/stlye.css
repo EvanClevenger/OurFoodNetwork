@@ -37,3 +37,20 @@ header nav ul {
     justify-content: flex-end;
     margin: 15px 20px
   }
+
+  img {
+    max-width:350px;
+    max-height: auto;
+  }
+
+  .recipe {
+    border: 50px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .recipe1 {
+    
+  }
