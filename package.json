@@ -14,10 +14,11 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Josh-Hildreth/Project2/issues"
+    "url": "https://github.com/EvanClevenger/OurFoodNetwork/tree/Luis"
   },
-  "homepage": "https://github.com/Josh-Hildreth/Project2#readme",
+  "homepage": "https://github.com/EvanClevenger/OurFoodNetwork/tree/Luis",
   "dependencies": {
+    "connect-session-sequelize": "^7.1.4",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "express-handlebars": "^6.0.6",
