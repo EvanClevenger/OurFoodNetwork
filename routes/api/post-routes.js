@@ -1,5 +1,5 @@
 const router = require('express').Router(); //need express to create routes
-const {Post, User, Vote, Comment} = require ('../../models');
+const {Post, User} = require ('../../models');
 const sequelize = require('sequelize')
 
 //returns all
