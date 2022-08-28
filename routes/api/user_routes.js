@@ -76,7 +76,7 @@ router.post('/', (req, res) => {
 
     //login route
     router.post ('/login', (req, res) =>{
-        User.findOne({ //looks for a user with a specific emial
+        User.findOne({ //looks for a user with a specific email
             where: {
               email: req.body.email
             }
