@@ -41,6 +41,7 @@ header nav ul {
   img {
     max-width:350px;
     max-height: auto;
+    background-position: center;
   }
 
   .recipe {
